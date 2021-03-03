@@ -4,3 +4,10 @@ C:\Users\evgeny.popov\Source\Repos\TI_autotests\Homework_task1\Homework_task1\bi
 C:\Users\evgeny.popov\Source\Repos\TI_autotests\Homework_task1\Homework_task1\bin\Debug\Homework_task1.pdb
 C:\Users\evgeny.popov\Source\Repos\TI_autotests\Homework_task1\Homework_task1\obj\Debug\Homework_task1.exe
 C:\Users\evgeny.popov\Source\Repos\TI_autotests\Homework_task1\Homework_task1\obj\Debug\Homework_task1.pdb
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\obj\Debug\Homework_task1.csprojAssemblyReference.cache
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\obj\Debug\Homework_task1.csproj.CoreCompileInputs.cache
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\obj\Debug\Homework_task1.exe
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\obj\Debug\Homework_task1.pdb
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\bin\Debug\Homework_task1.exe.config
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\bin\Debug\Homework_task1.exe
+C:\Users\Popovy\Source\Repos\TI_autotests\Homework_task1\Homework_task1\bin\Debug\Homework_task1.pdb
